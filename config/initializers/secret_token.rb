@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-NoteApp::Application.config.secret_token = '8470e90cbb1de4d7d879a2eea77c7b055dbb4cbc7cdac8620f5f922f20e75b5816527726adb53cf0953ca334371fd7cf7cbafb363ca7ac9084c2064afd164d9f'
+NoteApp::Application.config.secret_token = '025acdfc8c71d4e6d63b8a386afaaa5db2a871d6a513964cd82786762e1bcdf0e0832b5cd14fd628d81b810d92d868c3be68c15bfab1e545a0eddc484b926479'
