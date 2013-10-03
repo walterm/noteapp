@@ -1,7 +1,9 @@
 NoteApp::Application.routes.draw do
-  get "pages/home"
-  get "pages/help"
+  get "users/new"
 
+  root  :to => 'pages#home'
+  match '/help' => 'pages#help'
+  match '/signup' => 'users#new'   
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
