@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-NoteApp::Application.config.secret_key_base = '081631468fa49133ce35b16d936b6d036da4643219bd17b646ae45ab07ad537ea304de299f7b26b990f7cc3400a336ffad8e90e0411694c3d79edb4fbf60c278'
+NoteApp::Application.config.secret_key_base = '57d7e3c6f34495d2b1dc929e04cd3fa6848c3fbda813b397e426a02218d73d4c7a4b61f78aebb5633300ad2d4ffba2aa36147e3a3cf68c8e60d68bd278e30ae0'
